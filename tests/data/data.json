@@ -1,0 +1,2815 @@
+[
+  {
+    "book_id": 1,
+    "isbn": "439023483",
+    "isbn13": "9780439023483",
+    "authors": [
+      {
+        "name": "Suzanne Collins"
+      }
+    ],
+    "original_publication_year": 2008,
+    "original_title": "The Hunger Games",
+    "title": "The Hunger Games (The Hunger Games, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1447303603s/2767052.jpg",
+    "tags": [
+      {
+        "title": "Usually",
+        "slug": "usually"
+      },
+      {
+        "title": "Decision",
+        "slug": "decision"
+      },
+      {
+        "title": "Between Film",
+        "slug": "between-film"
+      }
+    ]
+  },
+  {
+    "book_id": 2,
+    "isbn": "439554934",
+    "isbn13": "9780439554934",
+    "authors": [
+      {
+        "name": "J.K. Rowling"
+      },
+      {
+        "name": " Mary GrandPr\u00e9"
+      }
+    ],
+    "original_publication_year": 1997,
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1474154022s/3.jpg",
+    "tags": [
+      {
+        "title": "Next Each",
+        "slug": "next-each"
+      },
+      {
+        "title": "Address Year",
+        "slug": "address-year"
+      },
+      {
+        "title": "Candidate",
+        "slug": "candidate"
+      }
+    ]
+  },
+  {
+    "book_id": 3,
+    "isbn": "316015849",
+    "isbn13": "9780316015849",
+    "authors": [
+      {
+        "name": "Stephenie Meyer"
+      }
+    ],
+    "original_publication_year": 2005,
+    "original_title": "Twilight",
+    "title": "Twilight (Twilight, #1)",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1361039443s/41865.jpg",
+    "tags": [
+      {
+        "title": "Face Team",
+        "slug": "face-team"
+      },
+      {
+        "title": "Second Professional Wide Through",
+        "slug": "second-professional-wide-through"
+      },
+      {
+        "title": "Spring",
+        "slug": "spring"
+      }
+    ]
+  },
+  {
+    "book_id": 4,
+    "isbn": "61120081",
+    "isbn13": "9780061120081",
+    "authors": [
+      {
+        "name": "Harper Lee"
+      }
+    ],
+    "original_publication_year": 196,
+    "original_title": "To Kill a Mockingbird",
+    "title": "To Kill a Mockingbird",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1361975680s/2657.jpg",
+    "tags": [
+      {
+        "title": "Little",
+        "slug": "little"
+      },
+      {
+        "title": "Production Room",
+        "slug": "production-room"
+      },
+      {
+        "title": "Positive",
+        "slug": "positive"
+      }
+    ]
+  },
+  {
+    "book_id": 5,
+    "isbn": "743273567",
+    "isbn13": "9780743273567",
+    "authors": [
+      {
+        "name": "F. Scott Fitzgerald"
+      }
+    ],
+    "original_publication_year": 1925,
+    "original_title": "The Great Gatsby",
+    "title": "The Great Gatsby",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1490528560s/4671.jpg",
+    "tags": [
+      {
+        "title": "Past Team",
+        "slug": "past-team"
+      },
+      {
+        "title": "Main",
+        "slug": "main"
+      }
+    ]
+  },
+  {
+    "book_id": 6,
+    "isbn": "525478817",
+    "isbn13": "9780525478817",
+    "authors": [
+      {
+        "name": "John Green"
+      }
+    ],
+    "original_publication_year": 2012,
+    "original_title": "The Fault in Our Stars",
+    "title": "The Fault in Our Stars",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1360206420s/11870085.jpg",
+    "tags": [
+      {
+        "title": "Recently",
+        "slug": "recently"
+      },
+      {
+        "title": "Right Clearly Himself",
+        "slug": "right-clearly-himself"
+      }
+    ]
+  },
+  {
+    "book_id": 7,
+    "isbn": "618260307",
+    "isbn13": "9780618260307",
+    "authors": [
+      {
+        "name": "J.R.R. Tolkien"
+      }
+    ],
+    "original_publication_year": 1937,
+    "original_title": "The Hobbit or There and Back Again",
+    "title": "The Hobbit",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1372847500s/5907.jpg",
+    "tags": [
+      {
+        "title": "Us Provide Agreement",
+        "slug": "us-provide-agreement"
+      }
+    ]
+  },
+  {
+    "book_id": 8,
+    "isbn": "316769177",
+    "isbn13": "9780316769177",
+    "authors": [
+      {
+        "name": "J.D. Salinger"
+      }
+    ],
+    "original_publication_year": 1951,
+    "original_title": "The Catcher in the Rye",
+    "title": "The Catcher in the Rye",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1398034300s/5107.jpg",
+    "tags": [
+      {
+        "title": "Water Should",
+        "slug": "water-should"
+      },
+      {
+        "title": "Sea Whole",
+        "slug": "sea-whole"
+      }
+    ]
+  },
+  {
+    "book_id": 9,
+    "isbn": "1416524797",
+    "isbn13": "9781416524797",
+    "authors": [
+      {
+        "name": "Dan Brown"
+      }
+    ],
+    "original_publication_year": 2,
+    "original_title": "Angels & Demons ",
+    "title": "Angels & Demons  (Robert Langdon, #1)",
+    "language_code": "en-CA",
+    "small_image_url": "https://images.gr-assets.com/books/1303390735s/960.jpg",
+    "tags": [
+      {
+        "title": "Let",
+        "slug": "let"
+      },
+      {
+        "title": "Front",
+        "slug": "front"
+      }
+    ]
+  },
+  {
+    "book_id": 10,
+    "isbn": "679783261",
+    "isbn13": "9780679783261",
+    "authors": [
+      {
+        "name": "Jane Austen"
+      }
+    ],
+    "original_publication_year": 1813,
+    "original_title": "Pride and Prejudice",
+    "title": "Pride and Prejudice",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1320399351s/1885.jpg",
+    "tags": [
+      {
+        "title": "Figure",
+        "slug": "figure"
+      },
+      {
+        "title": "Movement Contain Over",
+        "slug": "movement-contain-over"
+      }
+    ]
+  },
+  {
+    "book_id": 11,
+    "isbn": "1594480001",
+    "isbn13": "9781594480001",
+    "authors": [
+      {
+        "name": "Khaled Hosseini"
+      }
+    ],
+    "original_publication_year": 2003,
+    "original_title": "The Kite Runner ",
+    "title": "The Kite Runner",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1484565687s/77203.jpg",
+    "tags": [
+      {
+        "title": "Tough",
+        "slug": "tough"
+      },
+      {
+        "title": "While Management",
+        "slug": "while-management"
+      },
+      {
+        "title": "Be Relationship",
+        "slug": "be-relationship"
+      }
+    ]
+  },
+  {
+    "book_id": 12,
+    "isbn": "62024035",
+    "isbn13": "9780062024035",
+    "authors": [
+      {
+        "name": "Veronica Roth"
+      }
+    ],
+    "original_publication_year": 2011,
+    "original_title": "Divergent",
+    "title": "Divergent (Divergent, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1328559506s/13335037.jpg",
+    "tags": [
+      {
+        "title": "Hit",
+        "slug": "hit"
+      },
+      {
+        "title": "Coach",
+        "slug": "coach"
+      }
+    ]
+  },
+  {
+    "book_id": 13,
+    "isbn": "451524934",
+    "isbn13": "9780451524934",
+    "authors": [
+      {
+        "name": "George Orwell"
+      },
+      {
+        "name": " Erich Fromm"
+      },
+      {
+        "name": " Cel\u00e2l \u00dcster"
+      }
+    ],
+    "original_publication_year": 1949,
+    "original_title": "Nineteen Eighty-Four",
+    "title": "1984",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1348990566s/5470.jpg",
+    "tags": [
+      {
+        "title": "Way",
+        "slug": "way"
+      },
+      {
+        "title": "Toward",
+        "slug": "toward"
+      },
+      {
+        "title": "Middle",
+        "slug": "middle"
+      }
+    ]
+  },
+  {
+    "book_id": 14,
+    "isbn": "452284244",
+    "isbn13": "9780452284244",
+    "authors": [
+      {
+        "name": "George Orwell"
+      }
+    ],
+    "original_publication_year": 1945,
+    "original_title": "Animal Farm: A Fairy Story",
+    "title": "Animal Farm",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1424037542s/7613.jpg",
+    "tags": [
+      {
+        "title": "Try Blue Art",
+        "slug": "try-blue-art"
+      },
+      {
+        "title": "Fear",
+        "slug": "fear"
+      },
+      {
+        "title": "Eat",
+        "slug": "eat"
+      },
+      {
+        "title": "Pull",
+        "slug": "pull"
+      }
+    ]
+  },
+  {
+    "book_id": 15,
+    "isbn": "553296981",
+    "isbn13": "9780553296981",
+    "authors": [
+      {
+        "name": "Anne Frank"
+      },
+      {
+        "name": " Eleanor Roosevelt"
+      },
+      {
+        "name": " B.M. Mooyaart-Doubleday"
+      }
+    ],
+    "original_publication_year": 1947,
+    "original_title": "Het Achterhuis: Dagboekbrieven 14 juni 1942 - 1 augustus 1944",
+    "title": "The Diary of a Young Girl",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1358276407s/48855.jpg",
+    "tags": [
+      {
+        "title": "Blood Community Really",
+        "slug": "blood-community-really"
+      },
+      {
+        "title": "Goal Throughout",
+        "slug": "goal-throughout"
+      },
+      {
+        "title": "Support",
+        "slug": "support"
+      },
+      {
+        "title": "Degree Believe Section",
+        "slug": "degree-believe-section"
+      }
+    ]
+  },
+  {
+    "book_id": 16,
+    "isbn": "307269752",
+    "isbn13": "9780307269752",
+    "authors": [
+      {
+        "name": "Stieg Larsson"
+      },
+      {
+        "name": " Reg Keeland"
+      }
+    ],
+    "original_publication_year": 2005,
+    "original_title": "M\u00e4n som hatar kvinnor",
+    "title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1327868566s/2429135.jpg",
+    "tags": [
+      {
+        "title": "Population Worker Direction Exist",
+        "slug": "population-worker-direction-exist"
+      },
+      {
+        "title": "Suffer Forget",
+        "slug": "suffer-forget"
+      }
+    ]
+  },
+  {
+    "book_id": 17,
+    "isbn": "439023491",
+    "isbn13": "9780439023491",
+    "authors": [
+      {
+        "name": "Suzanne Collins"
+      }
+    ],
+    "original_publication_year": 2009,
+    "original_title": "Catching Fire",
+    "title": "Catching Fire (The Hunger Games, #2)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1358273780s/6148028.jpg",
+    "tags": [
+      {
+        "title": "Group",
+        "slug": "group"
+      }
+    ]
+  },
+  {
+    "book_id": 18,
+    "isbn": "043965548X",
+    "isbn13": "978043965548X",
+    "authors": [
+      {
+        "name": "J.K. Rowling"
+      },
+      {
+        "name": " Mary GrandPr\u00e9"
+      },
+      {
+        "name": " Rufus Beck"
+      }
+    ],
+    "original_publication_year": 1999,
+    "original_title": "Harry Potter and the Prisoner of Azkaban",
+    "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1499277281s/5.jpg",
+    "tags": [
+      {
+        "title": "Share",
+        "slug": "share"
+      },
+      {
+        "title": "Table",
+        "slug": "table"
+      }
+    ]
+  },
+  {
+    "book_id": 19,
+    "isbn": "618346252",
+    "isbn13": "9780618346252",
+    "authors": [
+      {
+        "name": "J.R.R. Tolkien"
+      }
+    ],
+    "original_publication_year": 1954,
+    "original_title": " The Fellowship of the Ring",
+    "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1298411339s/34.jpg",
+    "tags": [
+      {
+        "title": "Project Fear",
+        "slug": "project-fear"
+      },
+      {
+        "title": "Method",
+        "slug": "method"
+      },
+      {
+        "title": "Soldier Operation Security",
+        "slug": "soldier-operation-security"
+      },
+      {
+        "title": "Natural Senior Stuff",
+        "slug": "natural-senior-stuff"
+      }
+    ]
+  },
+  {
+    "book_id": 20,
+    "isbn": "439023513",
+    "isbn13": "9780439023513",
+    "authors": [
+      {
+        "name": "Suzanne Collins"
+      }
+    ],
+    "original_publication_year": 201,
+    "original_title": "Mockingjay",
+    "title": "Mockingjay (The Hunger Games, #3)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1358275419s/7260188.jpg",
+    "tags": [
+      {
+        "title": "Bank Major",
+        "slug": "bank-major"
+      },
+      {
+        "title": "Material Sister",
+        "slug": "material-sister"
+      }
+    ]
+  },
+  {
+    "book_id": 21,
+    "isbn": "439358078",
+    "isbn13": "9780439358078",
+    "authors": [
+      {
+        "name": "J.K. Rowling"
+      },
+      {
+        "name": " Mary GrandPr\u00e9"
+      }
+    ],
+    "original_publication_year": 2003,
+    "original_title": "Harry Potter and the Order of the Phoenix",
+    "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1387141547s/2.jpg",
+    "tags": [
+      {
+        "title": "Pick",
+        "slug": "pick"
+      },
+      {
+        "title": "Inside Expect",
+        "slug": "inside-expect"
+      },
+      {
+        "title": "Include",
+        "slug": "include"
+      },
+      {
+        "title": "You",
+        "slug": "you"
+      }
+    ]
+  },
+  {
+    "book_id": 22,
+    "isbn": "316166685",
+    "isbn13": "9780316166685",
+    "authors": [
+      {
+        "name": "Alice Sebold"
+      }
+    ],
+    "original_publication_year": 2002,
+    "original_title": "The Lovely Bones",
+    "title": "The Lovely Bones",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1457810586s/12232938.jpg",
+    "tags": [
+      {
+        "title": "Discover Focus",
+        "slug": "discover-focus"
+      },
+      {
+        "title": "Create",
+        "slug": "create"
+      },
+      {
+        "title": "Much",
+        "slug": "much"
+      }
+    ]
+  },
+  {
+    "book_id": 23,
+    "isbn": "439064864",
+    "isbn13": "9780439064864",
+    "authors": [
+      {
+        "name": "J.K. Rowling"
+      },
+      {
+        "name": " Mary GrandPr\u00e9"
+      }
+    ],
+    "original_publication_year": 1998,
+    "original_title": "Harry Potter and the Chamber of Secrets",
+    "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1474169725s/15881.jpg",
+    "tags": [
+      {
+        "title": "Blue Behind Difficult",
+        "slug": "blue-behind-difficult"
+      },
+      {
+        "title": "Sort",
+        "slug": "sort"
+      },
+      {
+        "title": "Pretty She",
+        "slug": "pretty-she"
+      }
+    ]
+  },
+  {
+    "book_id": 24,
+    "isbn": "439139600",
+    "isbn13": "9780439139600",
+    "authors": [
+      {
+        "name": "J.K. Rowling"
+      },
+      {
+        "name": " Mary GrandPr\u00e9"
+      }
+    ],
+    "original_publication_year": 2,
+    "original_title": "Harry Potter and the Goblet of Fire",
+    "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1361482611s/6.jpg",
+    "tags": [
+      {
+        "title": "Point Big",
+        "slug": "point-big"
+      },
+      {
+        "title": "Activity Identify",
+        "slug": "activity-identify"
+      },
+      {
+        "title": "Part",
+        "slug": "part"
+      }
+    ]
+  },
+  {
+    "book_id": 25,
+    "isbn": "545010225",
+    "isbn13": "9780545010225",
+    "authors": [
+      {
+        "name": "J.K. Rowling"
+      },
+      {
+        "name": " Mary GrandPr\u00e9"
+      }
+    ],
+    "original_publication_year": 2007,
+    "original_title": "Harry Potter and the Deathly Hallows",
+    "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1474171184s/136251.jpg",
+    "tags": [
+      {
+        "title": "School",
+        "slug": "school"
+      },
+      {
+        "title": "Peace",
+        "slug": "peace"
+      }
+    ]
+  },
+  {
+    "book_id": 26,
+    "isbn": "307277674",
+    "isbn13": "9780307277674",
+    "authors": [
+      {
+        "name": "Dan Brown"
+      }
+    ],
+    "original_publication_year": 2003,
+    "original_title": "The Da Vinci Code",
+    "title": "The Da Vinci Code (Robert Langdon, #2)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1303252999s/968.jpg",
+    "tags": [
+      {
+        "title": "Understand",
+        "slug": "understand"
+      },
+      {
+        "title": "Tend",
+        "slug": "tend"
+      },
+      {
+        "title": "Base",
+        "slug": "base"
+      },
+      {
+        "title": "Message",
+        "slug": "message"
+      }
+    ]
+  },
+  {
+    "book_id": 27,
+    "isbn": "439785960",
+    "isbn13": "9780439785960",
+    "authors": [
+      {
+        "name": "J.K. Rowling"
+      },
+      {
+        "name": " Mary GrandPr\u00e9"
+      }
+    ],
+    "original_publication_year": 2005,
+    "original_title": "Harry Potter and the Half-Blood Prince",
+    "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1361039191s/1.jpg",
+    "tags": [
+      {
+        "title": "Kid",
+        "slug": "kid"
+      }
+    ]
+  },
+  {
+    "book_id": 28,
+    "isbn": "140283331",
+    "isbn13": "9780140283331",
+    "authors": [
+      {
+        "name": "William Golding"
+      }
+    ],
+    "original_publication_year": 1954,
+    "original_title": "Lord of the Flies ",
+    "title": "Lord of the Flies",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1327869409s/7624.jpg",
+    "tags": [
+      {
+        "title": "Successful",
+        "slug": "successful"
+      },
+      {
+        "title": "Approach",
+        "slug": "approach"
+      },
+      {
+        "title": "But",
+        "slug": "but"
+      },
+      {
+        "title": "Yes",
+        "slug": "yes"
+      }
+    ]
+  },
+  {
+    "book_id": 29,
+    "isbn": "743477111",
+    "isbn13": "9780743477111",
+    "authors": [
+      {
+        "name": "William Shakespeare"
+      },
+      {
+        "name": " Robert           Jackson"
+      }
+    ],
+    "original_publication_year": 1595,
+    "original_title": "An Excellent conceited Tragedie of Romeo and Juliet",
+    "title": "Romeo and Juliet",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1327872146s/18135.jpg",
+    "tags": [
+      {
+        "title": "Too",
+        "slug": "too"
+      },
+      {
+        "title": "Raise",
+        "slug": "raise"
+      },
+      {
+        "title": "Through",
+        "slug": "through"
+      }
+    ]
+  },
+  {
+    "book_id": 30,
+    "isbn": "297859382",
+    "isbn13": "9780297859382",
+    "authors": [
+      {
+        "name": "Gillian Flynn"
+      }
+    ],
+    "original_publication_year": 2012,
+    "original_title": "Gone Girl",
+    "title": "Gone Girl",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1339602131s/8442457.jpg",
+    "tags": [
+      {
+        "title": "Score Quite Suddenly",
+        "slug": "score-quite-suddenly"
+      },
+      {
+        "title": "Fill",
+        "slug": "fill"
+      },
+      {
+        "title": "Eight",
+        "slug": "eight"
+      },
+      {
+        "title": "Budget",
+        "slug": "budget"
+      }
+    ]
+  },
+  {
+    "book_id": 31,
+    "isbn": "399155341",
+    "isbn13": "9780399155341",
+    "authors": [
+      {
+        "name": "Kathryn Stockett"
+      }
+    ],
+    "original_publication_year": 2009,
+    "original_title": "The Help",
+    "title": "The Help",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1346100365s/4667024.jpg",
+    "tags": [
+      {
+        "title": "Guess High",
+        "slug": "guess-high"
+      }
+    ]
+  },
+  {
+    "book_id": 32,
+    "isbn": "142000671",
+    "isbn13": "9780142000671",
+    "authors": [
+      {
+        "name": "John Steinbeck"
+      }
+    ],
+    "original_publication_year": 1937,
+    "original_title": "Of Mice and Men ",
+    "title": "Of Mice and Men",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1437235233s/890.jpg",
+    "tags": [
+      {
+        "title": "Give Entire",
+        "slug": "give-entire"
+      }
+    ]
+  },
+  {
+    "book_id": 33,
+    "isbn": "739326228",
+    "isbn13": "9780739326228",
+    "authors": [
+      {
+        "name": "Arthur Golden"
+      }
+    ],
+    "original_publication_year": 1997,
+    "original_title": "Memoirs of a Geisha",
+    "title": "Memoirs of a Geisha",
+    "language_code": "eng",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "tags": [
+      {
+        "title": "Often Practice",
+        "slug": "often-practice"
+      }
+    ]
+  },
+  {
+    "book_id": 34,
+    "isbn": "1612130291",
+    "isbn13": "9781612130291",
+    "authors": [
+      {
+        "name": "E.L. James"
+      }
+    ],
+    "original_publication_year": 2011,
+    "original_title": "Fifty Shades of Grey",
+    "title": "Fifty Shades of Grey (Fifty Shades, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1385207843s/10818853.jpg",
+    "tags": [
+      {
+        "title": "Collection Create Long",
+        "slug": "collection-create-long"
+      }
+    ]
+  },
+  {
+    "book_id": 35,
+    "isbn": "61122416",
+    "isbn13": "9780061122416",
+    "authors": [
+      {
+        "name": "Paulo Coelho"
+      },
+      {
+        "name": " Alan R. Clarke"
+      }
+    ],
+    "original_publication_year": 1988,
+    "original_title": "O Alquimista",
+    "title": "The Alchemist",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1483412266s/865.jpg",
+    "tags": [
+      {
+        "title": "Game",
+        "slug": "game"
+      },
+      {
+        "title": "Community",
+        "slug": "community"
+      }
+    ]
+  },
+  {
+    "book_id": 36,
+    "isbn": "385732554",
+    "isbn13": "9780385732554",
+    "authors": [
+      {
+        "name": "Lois Lowry"
+      }
+    ],
+    "original_publication_year": 1993,
+    "original_title": "The Giver",
+    "title": "The Giver (The Giver, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1342493368s/3636.jpg",
+    "tags": [
+      {
+        "title": "Require",
+        "slug": "require"
+      },
+      {
+        "title": "List",
+        "slug": "list"
+      },
+      {
+        "title": "Wide",
+        "slug": "wide"
+      }
+    ]
+  },
+  {
+    "book_id": 37,
+    "isbn": "60764899",
+    "isbn13": "9780060764899",
+    "authors": [
+      {
+        "name": "C.S. Lewis"
+      }
+    ],
+    "original_publication_year": 195,
+    "original_title": "The Lion, the Witch and the Wardrobe",
+    "title": "The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1353029077s/100915.jpg",
+    "tags": [
+      {
+        "title": "Know Ground",
+        "slug": "know-ground"
+      }
+    ]
+  },
+  {
+    "book_id": 38,
+    "isbn": "965818675",
+    "isbn13": "9780965818675",
+    "authors": [
+      {
+        "name": "Audrey Niffenegger"
+      }
+    ],
+    "original_publication_year": 2003,
+    "original_title": "The Time Traveler's Wife",
+    "title": "The Time Traveler's Wife",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1437728815s/14050.jpg",
+    "tags": [
+      {
+        "title": "Accept",
+        "slug": "accept"
+      },
+      {
+        "title": "Shake",
+        "slug": "shake"
+      },
+      {
+        "title": "Sell",
+        "slug": "sell"
+      }
+    ]
+  },
+  {
+    "book_id": 39,
+    "isbn": "553588486",
+    "isbn13": "9780553588486",
+    "authors": [
+      {
+        "name": "George R.R. Martin"
+      }
+    ],
+    "original_publication_year": 1996,
+    "original_title": "A Game of Thrones",
+    "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1436732693s/13496.jpg",
+    "tags": [
+      {
+        "title": "Economy",
+        "slug": "economy"
+      },
+      {
+        "title": "Red",
+        "slug": "red"
+      },
+      {
+        "title": "Dog Three",
+        "slug": "dog-three"
+      }
+    ]
+  },
+  {
+    "book_id": 40,
+    "isbn": "143038419",
+    "isbn13": "9780143038419",
+    "authors": [
+      {
+        "name": "Elizabeth Gilbert"
+      }
+    ],
+    "original_publication_year": 2006,
+    "original_title": "Eat, pray, love: one woman's search for everything across Italy, India and Indonesia",
+    "title": "Eat, Pray, Love",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1503066414s/19501.jpg",
+    "tags": [
+      {
+        "title": "They",
+        "slug": "they"
+      }
+    ]
+  },
+  {
+    "book_id": 41,
+    "isbn": "786838655",
+    "isbn13": "9780786838655",
+    "authors": [
+      {
+        "name": "Rick Riordan"
+      }
+    ],
+    "original_publication_year": 2005,
+    "original_title": "The Lightning Thief",
+    "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1400602609s/28187.jpg",
+    "tags": [
+      {
+        "title": "Management",
+        "slug": "management"
+      }
+    ]
+  },
+  {
+    "book_id": 42,
+    "isbn": "451529308",
+    "isbn13": "9780451529308",
+    "authors": [
+      {
+        "name": "Louisa May Alcott"
+      }
+    ],
+    "original_publication_year": 1868,
+    "original_title": "Little Women",
+    "title": "Little Women (Little Women, #1)",
+    "language_code": "en-US",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "tags": [
+      {
+        "title": "Other",
+        "slug": "other"
+      },
+      {
+        "title": "Model",
+        "slug": "model"
+      },
+      {
+        "title": "Over Very",
+        "slug": "over-very"
+      },
+      {
+        "title": "Next",
+        "slug": "next"
+      }
+    ]
+  },
+  {
+    "book_id": 43,
+    "isbn": "142437204",
+    "isbn13": "9780142437204",
+    "authors": [
+      {
+        "name": "Charlotte Bront\u00eb"
+      },
+      {
+        "name": " Michael Mason"
+      }
+    ],
+    "original_publication_year": 1847,
+    "original_title": "Jane Eyre",
+    "title": "Jane Eyre",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1327867269s/10210.jpg",
+    "tags": [
+      {
+        "title": "Another Anyone",
+        "slug": "another-anyone"
+      },
+      {
+        "title": "Special Enter Job",
+        "slug": "special-enter-job"
+      },
+      {
+        "title": "Heavy Weight",
+        "slug": "heavy-weight"
+      },
+      {
+        "title": "Product",
+        "slug": "product"
+      }
+    ]
+  },
+  {
+    "book_id": 44,
+    "isbn": "553816713",
+    "isbn13": "9780553816713",
+    "authors": [
+      {
+        "name": "Nicholas Sparks"
+      }
+    ],
+    "original_publication_year": 1996,
+    "original_title": "The Notebook",
+    "title": "The Notebook (The Notebook, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1385738917s/15931.jpg",
+    "tags": [
+      {
+        "title": "Response Despite",
+        "slug": "response-despite"
+      },
+      {
+        "title": "Detail",
+        "slug": "detail"
+      },
+      {
+        "title": "Police",
+        "slug": "police"
+      },
+      {
+        "title": "Information Training Record",
+        "slug": "information-training-record"
+      }
+    ]
+  },
+  {
+    "book_id": 45,
+    "isbn": "770430074",
+    "isbn13": "9780770430074",
+    "authors": [
+      {
+        "name": "Yann Martel"
+      }
+    ],
+    "original_publication_year": 2001,
+    "original_title": "Life of Pi",
+    "title": "Life of Pi",
+    "language_code": "",
+    "small_image_url": "https://images.gr-assets.com/books/1320562005s/4214.jpg",
+    "tags": [
+      {
+        "title": "Local",
+        "slug": "local"
+      }
+    ]
+  },
+  {
+    "book_id": 46,
+    "isbn": "1565125606",
+    "isbn13": "9781565125606",
+    "authors": [
+      {
+        "name": "Sara Gruen"
+      }
+    ],
+    "original_publication_year": 2006,
+    "original_title": "Water for Elephants",
+    "title": "Water for Elephants",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1494428973s/43641.jpg",
+    "tags": [
+      {
+        "title": "Station Use",
+        "slug": "station-use"
+      },
+      {
+        "title": "All Watch",
+        "slug": "all-watch"
+      },
+      {
+        "title": "Practice",
+        "slug": "practice"
+      }
+    ]
+  },
+  {
+    "book_id": 47,
+    "isbn": "375831002",
+    "isbn13": "9780375831002",
+    "authors": [
+      {
+        "name": "Markus Zusak"
+      }
+    ],
+    "original_publication_year": 2005,
+    "original_title": "The Book Thief",
+    "title": "The Book Thief",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1390053681s/19063.jpg",
+    "tags": [
+      {
+        "title": "Protect",
+        "slug": "protect"
+      },
+      {
+        "title": "Official",
+        "slug": "official"
+      },
+      {
+        "title": "Southern Kind",
+        "slug": "southern-kind"
+      }
+    ]
+  },
+  {
+    "book_id": 48,
+    "isbn": "307347974",
+    "isbn13": "9780307347974",
+    "authors": [
+      {
+        "name": "Ray Bradbury"
+      }
+    ],
+    "original_publication_year": 1953,
+    "original_title": "Fahrenheit 451",
+    "title": "Fahrenheit 451",
+    "language_code": "spa",
+    "small_image_url": "https://images.gr-assets.com/books/1351643740s/4381.jpg",
+    "tags": [
+      {
+        "title": "Program",
+        "slug": "program"
+      }
+    ]
+  },
+  {
+    "book_id": 49,
+    "isbn": "316160199",
+    "isbn13": "9780316160199",
+    "authors": [
+      {
+        "name": "Stephenie Meyer"
+      }
+    ],
+    "original_publication_year": 2006,
+    "original_title": "New Moon (Twilight, #2)",
+    "title": "New Moon (Twilight, #2)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1361039440s/49041.jpg",
+    "tags": [
+      {
+        "title": "Lead",
+        "slug": "lead"
+      },
+      {
+        "title": "Air",
+        "slug": "air"
+      },
+      {
+        "title": "Baby Account Table Beat",
+        "slug": "baby-account-table-beat"
+      },
+      {
+        "title": "Process Add",
+        "slug": "process-add"
+      }
+    ]
+  },
+  {
+    "book_id": 50,
+    "isbn": "60513039",
+    "isbn13": "9780060513039",
+    "authors": [
+      {
+        "name": "Shel Silverstein"
+      }
+    ],
+    "original_publication_year": 1974,
+    "original_title": "Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein",
+    "title": "Where the Sidewalk Ends",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1168052448s/30119.jpg",
+    "tags": [
+      {
+        "title": "Own",
+        "slug": "own"
+      },
+      {
+        "title": "Section",
+        "slug": "section"
+      }
+    ]
+  },
+  {
+    "book_id": 51,
+    "isbn": "1416914285",
+    "isbn13": "9781416914285",
+    "authors": [
+      {
+        "name": "Cassandra Clare"
+      }
+    ],
+    "original_publication_year": 2007,
+    "original_title": "City of Bones",
+    "title": "City of Bones (The Mortal Instruments, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1432730315s/256683.jpg",
+    "tags": [
+      {
+        "title": "Son",
+        "slug": "son"
+      },
+      {
+        "title": "Size Most",
+        "slug": "size-most"
+      }
+    ]
+  },
+  {
+    "book_id": 52,
+    "isbn": "316160202",
+    "isbn13": "9780316160202",
+    "authors": [
+      {
+        "name": "Stephenie Meyer"
+      }
+    ],
+    "original_publication_year": 2007,
+    "original_title": "Eclipse",
+    "title": "Eclipse (Twilight, #3)",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1361038355s/428263.jpg",
+    "tags": [
+      {
+        "title": "Morning Rich",
+        "slug": "morning-rich"
+      },
+      {
+        "title": "Model",
+        "slug": "model"
+      }
+    ]
+  },
+  {
+    "book_id": 53,
+    "isbn": "375826696",
+    "isbn13": "9780375826696",
+    "authors": [
+      {
+        "name": "Christopher Paolini"
+      }
+    ],
+    "original_publication_year": 2002,
+    "original_title": "Eragon",
+    "title": "Eragon (The Inheritance Cycle, #1)",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1366212852s/113436.jpg",
+    "tags": [
+      {
+        "title": "Already Along",
+        "slug": "already-along"
+      },
+      {
+        "title": "Too",
+        "slug": "too"
+      },
+      {
+        "title": "Free Every Drug",
+        "slug": "free-every-drug"
+      }
+    ]
+  },
+  {
+    "book_id": 54,
+    "isbn": "345391802",
+    "isbn13": "9780345391802",
+    "authors": [
+      {
+        "name": "Douglas Adams"
+      }
+    ],
+    "original_publication_year": 1979,
+    "original_title": "The Hitchhiker's Guide to the Galaxy",
+    "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1327656754s/11.jpg",
+    "tags": [
+      {
+        "title": "Very Himself",
+        "slug": "very-himself"
+      },
+      {
+        "title": "Able",
+        "slug": "able"
+      },
+      {
+        "title": "Commercial Reason",
+        "slug": "commercial-reason"
+      }
+    ]
+  },
+  {
+    "book_id": 55,
+    "isbn": "60929871",
+    "isbn13": "9780060929871",
+    "authors": [
+      {
+        "name": "Aldous Huxley"
+      }
+    ],
+    "original_publication_year": 1932,
+    "original_title": "Brave New World",
+    "title": "Brave New World",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1487389574s/5129.jpg",
+    "tags": [
+      {
+        "title": "Save In",
+        "slug": "save-in"
+      }
+    ]
+  },
+  {
+    "book_id": 56,
+    "isbn": "031606792X",
+    "isbn13": "978031606792X",
+    "authors": [
+      {
+        "name": "Stephenie Meyer"
+      }
+    ],
+    "original_publication_year": 2008,
+    "original_title": "Breaking Dawn",
+    "title": "Breaking Dawn (Twilight, #4)",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1361039438s/1162543.jpg",
+    "tags": [
+      {
+        "title": "Make Century Event",
+        "slug": "make-century-event"
+      },
+      {
+        "title": "Spring",
+        "slug": "spring"
+      },
+      {
+        "title": "Heart",
+        "slug": "heart"
+      },
+      {
+        "title": "Station",
+        "slug": "station"
+      }
+    ]
+  },
+  {
+    "book_id": 57,
+    "isbn": "142001740",
+    "isbn13": "9780142001740",
+    "authors": [
+      {
+        "name": "Sue Monk Kidd"
+      }
+    ],
+    "original_publication_year": 2001,
+    "original_title": "The Secret Life of Bees",
+    "title": "The Secret Life of Bees",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1473454532s/37435.jpg",
+    "tags": [
+      {
+        "title": "Plant",
+        "slug": "plant"
+      },
+      {
+        "title": "Source",
+        "slug": "source"
+      }
+    ]
+  },
+  {
+    "book_id": 58,
+    "isbn": "142437174",
+    "isbn13": "9780142437174",
+    "authors": [
+      {
+        "name": "Mark Twain"
+      },
+      {
+        "name": " John Seelye"
+      },
+      {
+        "name": " Guy Cardwell"
+      }
+    ],
+    "original_publication_year": 1884,
+    "original_title": "The Adventures of Huckleberry Finn",
+    "title": "The Adventures of Huckleberry Finn",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1405973850s/2956.jpg",
+    "tags": [
+      {
+        "title": "Congress Summer Enjoy",
+        "slug": "congress-summer-enjoy"
+      }
+    ]
+  },
+  {
+    "book_id": 59,
+    "isbn": "64410935",
+    "isbn13": "9780064410935",
+    "authors": [
+      {
+        "name": "E.B. White"
+      },
+      {
+        "name": " Garth Williams"
+      },
+      {
+        "name": " Rosemary Wells"
+      }
+    ],
+    "original_publication_year": 1952,
+    "original_title": "Charlotte's Web",
+    "title": "Charlotte's Web",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1439632243s/24178.jpg",
+    "tags": [
+      {
+        "title": "Child",
+        "slug": "child"
+      },
+      {
+        "title": "Rich",
+        "slug": "rich"
+      },
+      {
+        "title": "Job",
+        "slug": "job"
+      },
+      {
+        "title": "North Environmental",
+        "slug": "north-environmental"
+      }
+    ]
+  },
+  {
+    "book_id": 60,
+    "isbn": "1400032717",
+    "isbn13": "9781400032717",
+    "authors": [
+      {
+        "name": "Mark Haddon"
+      }
+    ],
+    "original_publication_year": 2003,
+    "original_title": "The Curious Incident of the Dog in the Night-Time",
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1479863624s/1618.jpg",
+    "tags": [
+      {
+        "title": "Well Go Attention",
+        "slug": "well-go-attention"
+      },
+      {
+        "title": "More",
+        "slug": "more"
+      }
+    ]
+  },
+  {
+    "book_id": 61,
+    "isbn": "1594633665",
+    "isbn13": "9781594633665",
+    "authors": [
+      {
+        "name": "Paula Hawkins"
+      }
+    ],
+    "original_publication_year": 2015,
+    "original_title": "The Girl on the Train",
+    "title": "The Girl on the Train",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1490903702s/22557272.jpg",
+    "tags": [
+      {
+        "title": "Trial",
+        "slug": "trial"
+      },
+      {
+        "title": "Ahead",
+        "slug": "ahead"
+      },
+      {
+        "title": "Culture Impact",
+        "slug": "culture-impact"
+      }
+    ]
+  },
+  {
+    "book_id": 62,
+    "isbn": "679879242",
+    "isbn13": "9780679879242",
+    "authors": [
+      {
+        "name": "Philip Pullman"
+      }
+    ],
+    "original_publication_year": 1995,
+    "original_title": "Northern Lights",
+    "title": "The Golden Compass (His Dark Materials, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1451271747s/119322.jpg",
+    "tags": [
+      {
+        "title": "Risk",
+        "slug": "risk"
+      },
+      {
+        "title": "Shake",
+        "slug": "shake"
+      }
+    ]
+  },
+  {
+    "book_id": 63,
+    "isbn": "393978893",
+    "isbn13": "9780393978893",
+    "authors": [
+      {
+        "name": "Emily Bront\u00eb"
+      },
+      {
+        "name": " Richard J. Dunn"
+      }
+    ],
+    "original_publication_year": 1847,
+    "original_title": "Wuthering Heights",
+    "title": "Wuthering Heights",
+    "language_code": "eng",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "tags": [
+      {
+        "title": "Reduce",
+        "slug": "reduce"
+      },
+      {
+        "title": "Create Necessary",
+        "slug": "create-necessary"
+      },
+      {
+        "title": "Generation",
+        "slug": "generation"
+      },
+      {
+        "title": "Continue",
+        "slug": "continue"
+      }
+    ]
+  },
+  {
+    "book_id": 64,
+    "isbn": "743454537",
+    "isbn13": "9780743454537",
+    "authors": [
+      {
+        "name": "Jodi Picoult"
+      }
+    ],
+    "original_publication_year": 2004,
+    "original_title": "My Sister's Keeper",
+    "title": "My Sister's Keeper",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1369504683s/10917.jpg",
+    "tags": [
+      {
+        "title": "Seven Worker",
+        "slug": "seven-worker"
+      },
+      {
+        "title": "End",
+        "slug": "end"
+      }
+    ]
+  },
+  {
+    "book_id": 65,
+    "isbn": "385333846",
+    "isbn13": "9780385333846",
+    "authors": [
+      {
+        "name": "Kurt Vonnegut Jr."
+      }
+    ],
+    "original_publication_year": 1969,
+    "original_title": "Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death ",
+    "title": "Slaughterhouse-Five",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1440319389s/4981.jpg",
+    "tags": [
+      {
+        "title": "Wish",
+        "slug": "wish"
+      },
+      {
+        "title": "Brother",
+        "slug": "brother"
+      }
+    ]
+  },
+  {
+    "book_id": 66,
+    "isbn": "446675539",
+    "isbn13": "9780446675539",
+    "authors": [
+      {
+        "name": "Margaret Mitchell"
+      }
+    ],
+    "original_publication_year": 1936,
+    "original_title": "Gone with the Wind",
+    "title": "Gone with the Wind",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1328025229s/18405.jpg",
+    "tags": [
+      {
+        "title": "Everybody Bit Rich",
+        "slug": "everybody-bit-rich"
+      },
+      {
+        "title": "Cause Treatment",
+        "slug": "cause-treatment"
+      },
+      {
+        "title": "Hope",
+        "slug": "hope"
+      },
+      {
+        "title": "Race",
+        "slug": "race"
+      }
+    ]
+  },
+  {
+    "book_id": 67,
+    "isbn": "1594489505",
+    "isbn13": "9781594489505",
+    "authors": [
+      {
+        "name": "Khaled Hosseini"
+      }
+    ],
+    "original_publication_year": 2007,
+    "original_title": "A Thousand Splendid Suns",
+    "title": "A Thousand Splendid Suns",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1345958969s/128029.jpg",
+    "tags": [
+      {
+        "title": "Clear",
+        "slug": "clear"
+      },
+      {
+        "title": "Culture Camera",
+        "slug": "culture-camera"
+      },
+      {
+        "title": "Address",
+        "slug": "address"
+      }
+    ]
+  },
+  {
+    "book_id": 68,
+    "isbn": "671027344",
+    "isbn13": "9780671027344",
+    "authors": [
+      {
+        "name": "Stephen Chbosky"
+      }
+    ],
+    "original_publication_year": 1999,
+    "original_title": "The Perks of Being a Wallflower",
+    "title": "The Perks of Being a Wallflower",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1167352178s/22628.jpg",
+    "tags": [
+      {
+        "title": "Never",
+        "slug": "never"
+      },
+      {
+        "title": "Everybody",
+        "slug": "everybody"
+      }
+    ]
+  },
+  {
+    "book_id": 69,
+    "isbn": "7442912",
+    "isbn13": "9780007442912",
+    "authors": [
+      {
+        "name": "Veronica Roth"
+      }
+    ],
+    "original_publication_year": 2012,
+    "original_title": "Insurgent",
+    "title": "Insurgent (Divergent, #2)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1325667729s/11735983.jpg",
+    "tags": [
+      {
+        "title": "Mrs",
+        "slug": "mrs"
+      }
+    ]
+  },
+  {
+    "book_id": 70,
+    "isbn": "812550706",
+    "isbn13": "9780812550706",
+    "authors": [
+      {
+        "name": "Orson Scott Card"
+      }
+    ],
+    "original_publication_year": 1985,
+    "original_title": "Ender's Game",
+    "title": "Ender's Game (Ender's Saga, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1408303130s/375802.jpg",
+    "tags": [
+      {
+        "title": "Threat Record",
+        "slug": "threat-record"
+      },
+      {
+        "title": "Economic Director",
+        "slug": "economic-director"
+      },
+      {
+        "title": "Debate",
+        "slug": "debate"
+      },
+      {
+        "title": "Lead",
+        "slug": "lead"
+      }
+    ]
+  },
+  {
+    "book_id": 71,
+    "isbn": "141439475",
+    "isbn13": "9780141439475",
+    "authors": [
+      {
+        "name": "Mary Wollstonecraft Shelley"
+      },
+      {
+        "name": " Percy Bysshe Shelley"
+      },
+      {
+        "name": " Maurice Hindle"
+      }
+    ],
+    "original_publication_year": 1818,
+    "original_title": "Frankenstein; or, The Modern Prometheus",
+    "title": "Frankenstein",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1381512375s/18490.jpg",
+    "tags": [
+      {
+        "title": "Think Ball",
+        "slug": "think-ball"
+      }
+    ]
+  },
+  {
+    "book_id": 72,
+    "isbn": "450040186",
+    "isbn13": "9780450040186",
+    "authors": [
+      {
+        "name": "Stephen King"
+      }
+    ],
+    "original_publication_year": 1977,
+    "original_title": "The Shining",
+    "title": "The Shining (The Shining #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1353277730s/11588.jpg",
+    "tags": [
+      {
+        "title": "Card Behavior",
+        "slug": "card-behavior"
+      },
+      {
+        "title": "Do Common",
+        "slug": "do-common"
+      },
+      {
+        "title": "Property Smile Realize",
+        "slug": "property-smile-realize"
+      }
+    ]
+  },
+  {
+    "book_id": 73,
+    "isbn": "316068047",
+    "isbn13": "9780316068047",
+    "authors": [
+      {
+        "name": "Stephenie Meyer"
+      }
+    ],
+    "original_publication_year": 2008,
+    "original_title": "The Host",
+    "title": "The Host (The Host, #1)",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1318009171s/1656001.jpg",
+    "tags": [
+      {
+        "title": "Sit",
+        "slug": "sit"
+      },
+      {
+        "title": "Talk",
+        "slug": "talk"
+      },
+      {
+        "title": "Role Upon",
+        "slug": "role-upon"
+      }
+    ]
+  },
+  {
+    "book_id": 74,
+    "isbn": "142402516",
+    "isbn13": "9780142402516",
+    "authors": [
+      {
+        "name": "John Green"
+      }
+    ],
+    "original_publication_year": 2005,
+    "original_title": "Looking for Alaska",
+    "title": "Looking for Alaska",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1394798630s/99561.jpg",
+    "tags": [
+      {
+        "title": "Follow",
+        "slug": "follow"
+      },
+      {
+        "title": "Them Agree Such",
+        "slug": "them-agree-such"
+      },
+      {
+        "title": "Trip",
+        "slug": "trip"
+      },
+      {
+        "title": "Record Guy",
+        "slug": "record-guy"
+      }
+    ]
+  },
+  {
+    "book_id": 75,
+    "isbn": "014028009X",
+    "isbn13": "978014028009X",
+    "authors": [
+      {
+        "name": "Helen Fielding"
+      }
+    ],
+    "original_publication_year": 1996,
+    "original_title": "",
+    "title": "Bridget Jones's Diary (Bridget Jones, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1292060045s/227443.jpg",
+    "tags": [
+      {
+        "title": "Much Close Notice School",
+        "slug": "much-close-notice-school"
+      }
+    ]
+  },
+  {
+    "book_id": 76,
+    "isbn": "141439661",
+    "isbn13": "9780141439661",
+    "authors": [
+      {
+        "name": "Jane Austen"
+      },
+      {
+        "name": " Tony Tanner"
+      },
+      {
+        "name": " Ros Ballaster"
+      }
+    ],
+    "original_publication_year": 1811,
+    "original_title": "Sense and Sensibility",
+    "title": "Sense and Sensibility",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1397245675s/14935.jpg",
+    "tags": [
+      {
+        "title": "Camera Enter",
+        "slug": "camera-enter"
+      }
+    ]
+  },
+  {
+    "book_id": 77,
+    "isbn": "439244196",
+    "isbn13": "9780439244196",
+    "authors": [
+      {
+        "name": "Louis Sachar"
+      },
+      {
+        "name": " Louis Sachar"
+      }
+    ],
+    "original_publication_year": 1998,
+    "original_title": "Holes",
+    "title": "Holes (Holes, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1327781893s/38709.jpg",
+    "tags": [
+      {
+        "title": "Spend",
+        "slug": "spend"
+      },
+      {
+        "title": "Garden",
+        "slug": "garden"
+      },
+      {
+        "title": "Act Writer Power",
+        "slug": "act-writer-power"
+      },
+      {
+        "title": "Great",
+        "slug": "great"
+      }
+    ]
+  },
+  {
+    "book_id": 78,
+    "isbn": "307275558",
+    "isbn13": "9780307275558",
+    "authors": [
+      {
+        "name": "Lauren Weisberger"
+      }
+    ],
+    "original_publication_year": 2003,
+    "original_title": "The Devil Wears Prada",
+    "title": "The Devil Wears Prada (The Devil Wears Prada, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "tags": [
+      {
+        "title": "Toward All",
+        "slug": "toward-all"
+      }
+    ]
+  },
+  {
+    "book_id": 79,
+    "isbn": "143039954",
+    "isbn13": "9780143039954",
+    "authors": [
+      {
+        "name": "Homer"
+      },
+      {
+        "name": " Robert Fagles"
+      },
+      {
+        "name": " E.V. Rieu"
+      },
+      {
+        "name": " Fr\u00e9d\u00e9ric Mugler"
+      },
+      {
+        "name": " Bernard Knox"
+      }
+    ],
+    "original_publication_year": -72,
+    "original_title": "\u1f48\u03b4\u03cd\u03c3\u03c3\u03b5\u03b9\u03b1",
+    "title": "The Odyssey",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1390173285s/1381.jpg",
+    "tags": [
+      {
+        "title": "Cup",
+        "slug": "cup"
+      },
+      {
+        "title": "Within Result",
+        "slug": "within-result"
+      },
+      {
+        "title": "Your",
+        "slug": "your"
+      },
+      {
+        "title": "Nature",
+        "slug": "nature"
+      }
+    ]
+  },
+  {
+    "book_id": 80,
+    "isbn": "156012197",
+    "isbn13": "9780156012197",
+    "authors": [
+      {
+        "name": "Antoine de Saint-Exup\u00e9ry"
+      },
+      {
+        "name": " Richard Howard"
+      },
+      {
+        "name": " Dom Marcos Barbosa"
+      },
+      {
+        "name": " Melina Karakosta"
+      }
+    ],
+    "original_publication_year": 1946,
+    "original_title": "Le Petit Prince",
+    "title": "The Little Prince",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1367545443s/157993.jpg",
+    "tags": [
+      {
+        "title": "We",
+        "slug": "we"
+      },
+      {
+        "title": "People",
+        "slug": "people"
+      },
+      {
+        "title": "Find Arrive",
+        "slug": "find-arrive"
+      }
+    ]
+  },
+  {
+    "book_id": 81,
+    "isbn": "074324754X",
+    "isbn13": "978074324754X",
+    "authors": [
+      {
+        "name": "Jeannette Walls"
+      }
+    ],
+    "original_publication_year": 2005,
+    "original_title": "The Glass Castle",
+    "title": "The Glass Castle",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1400930557s/7445.jpg",
+    "tags": [
+      {
+        "title": "Fine Inside",
+        "slug": "fine-inside"
+      },
+      {
+        "title": "Interesting",
+        "slug": "interesting"
+      },
+      {
+        "title": "Try",
+        "slug": "try"
+      },
+      {
+        "title": "Explain",
+        "slug": "explain"
+      }
+    ]
+  },
+  {
+    "book_id": 82,
+    "isbn": "385486804",
+    "isbn13": "9780385486804",
+    "authors": [
+      {
+        "name": "Jon Krakauer"
+      }
+    ],
+    "original_publication_year": 1996,
+    "original_title": "Into the Wild",
+    "title": "Into the Wild",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1403173986s/1845.jpg",
+    "tags": [
+      {
+        "title": "Image",
+        "slug": "image"
+      }
+    ]
+  },
+  {
+    "book_id": 83,
+    "isbn": "141439602",
+    "isbn13": "9780141439602",
+    "authors": [
+      {
+        "name": "Charles Dickens"
+      },
+      {
+        "name": " Richard Maxwell"
+      },
+      {
+        "name": " Hablot Knight Browne"
+      }
+    ],
+    "original_publication_year": 1859,
+    "original_title": "A Tale of Two Cities",
+    "title": "A Tale of Two Cities",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1344922523s/1953.jpg",
+    "tags": [
+      {
+        "title": "Wonder Price",
+        "slug": "wonder-price"
+      }
+    ]
+  },
+  {
+    "book_id": 84,
+    "isbn": "030734813X",
+    "isbn13": "978030734813X",
+    "authors": [
+      {
+        "name": "Michael Crichton"
+      }
+    ],
+    "original_publication_year": 199,
+    "original_title": "Jurassic Park",
+    "title": "Jurassic Park (Jurassic Park, #1)",
+    "language_code": "spa",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "tags": [
+      {
+        "title": "Soon",
+        "slug": "soon"
+      }
+    ]
+  },
+  {
+    "book_id": 85,
+    "isbn": "60256656",
+    "isbn13": "9780060256656",
+    "authors": [
+      {
+        "name": "Shel Silverstein"
+      }
+    ],
+    "original_publication_year": 1964,
+    "original_title": "The Giving Tree",
+    "title": "The Giving Tree",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1174210942s/370493.jpg",
+    "tags": [
+      {
+        "title": "Cold Real",
+        "slug": "cold-real"
+      }
+    ]
+  },
+  {
+    "book_id": 86,
+    "isbn": "385338600",
+    "isbn13": "9780385338600",
+    "authors": [
+      {
+        "name": "John Grisham"
+      }
+    ],
+    "original_publication_year": 1989,
+    "original_title": "A Time to Kill",
+    "title": "A Time to Kill",
+    "language_code": "eng",
+    "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+    "tags": [
+      {
+        "title": "Sing Maybe Try",
+        "slug": "sing-maybe-try"
+      },
+      {
+        "title": "Total",
+        "slug": "total"
+      },
+      {
+        "title": "Night",
+        "slug": "night"
+      },
+      {
+        "title": "Space",
+        "slug": "space"
+      }
+    ]
+  },
+  {
+    "book_id": 87,
+    "isbn": "374500010",
+    "isbn13": "9780374500010",
+    "authors": [
+      {
+        "name": "Elie Wiesel"
+      },
+      {
+        "name": " Marion Wiesel"
+      }
+    ],
+    "original_publication_year": 1958,
+    "original_title": "Un di Velt Hot Geshvign",
+    "title": "Night (The Night Trilogy #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1473495285s/1617.jpg",
+    "tags": [
+      {
+        "title": "Create Individual",
+        "slug": "create-individual"
+      },
+      {
+        "title": "While",
+        "slug": "while"
+      },
+      {
+        "title": "Test",
+        "slug": "test"
+      },
+      {
+        "title": "Even",
+        "slug": "even"
+      }
+    ]
+  },
+  {
+    "book_id": 88,
+    "isbn": "014241493X",
+    "isbn13": "978014241493X",
+    "authors": [
+      {
+        "name": "John Green"
+      }
+    ],
+    "original_publication_year": 2008,
+    "original_title": "Paper Towns",
+    "title": "Paper Towns",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1349013610s/6442769.jpg",
+    "tags": [
+      {
+        "title": "Everything",
+        "slug": "everything"
+      },
+      {
+        "title": "How",
+        "slug": "how"
+      },
+      {
+        "title": "Pick",
+        "slug": "pick"
+      },
+      {
+        "title": "Pretty Surface",
+        "slug": "pretty-surface"
+      }
+    ]
+  },
+  {
+    "book_id": 89,
+    "isbn": "345418263",
+    "isbn13": "9780345418263",
+    "authors": [
+      {
+        "name": "William Goldman"
+      }
+    ],
+    "original_publication_year": 1973,
+    "original_title": "The Princess Bride",
+    "title": "The Princess Bride ",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1327903636s/21787.jpg",
+    "tags": [
+      {
+        "title": "Position Write",
+        "slug": "position-write"
+      },
+      {
+        "title": "Research Your",
+        "slug": "research-your"
+      }
+    ]
+  },
+  {
+    "book_id": 90,
+    "isbn": "014038572X",
+    "isbn13": "978014038572X",
+    "authors": [
+      {
+        "name": "S.E. Hinton"
+      }
+    ],
+    "original_publication_year": 1967,
+    "original_title": "The Outsiders",
+    "title": "The Outsiders",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1442129426s/231804.jpg",
+    "tags": [
+      {
+        "title": "Consider",
+        "slug": "consider"
+      },
+      {
+        "title": "Film",
+        "slug": "film"
+      }
+    ]
+  },
+  {
+    "book_id": 91,
+    "isbn": "385737947",
+    "isbn13": "9780385737947",
+    "authors": [
+      {
+        "name": "James Dashner"
+      }
+    ],
+    "original_publication_year": 2009,
+    "original_title": "The Maze Runner",
+    "title": "The Maze Runner (Maze Runner, #1)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1375596592s/6186357.jpg",
+    "tags": [
+      {
+        "title": "Hear",
+        "slug": "hear"
+      }
+    ]
+  },
+  {
+    "book_id": 92,
+    "isbn": "61234001",
+    "isbn13": "9780061234001",
+    "authors": [
+      {
+        "name": "Steven D. Levitt"
+      },
+      {
+        "name": " Stephen J. Dubner"
+      }
+    ],
+    "original_publication_year": 2005,
+    "original_title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+    "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)",
+    "language_code": "en-US",
+    "small_image_url": "https://images.gr-assets.com/books/1327909092s/1202.jpg",
+    "tags": [
+      {
+        "title": "Represent",
+        "slug": "represent"
+      },
+      {
+        "title": "Go",
+        "slug": "go"
+      },
+      {
+        "title": "Beautiful",
+        "slug": "beautiful"
+      },
+      {
+        "title": "Save Himself",
+        "slug": "save-himself"
+      }
+    ]
+  },
+  {
+    "book_id": 93,
+    "isbn": "517189607",
+    "isbn13": "9780517189607",
+    "authors": [
+      {
+        "name": "Frances Hodgson Burnett"
+      }
+    ],
+    "original_publication_year": 1911,
+    "original_title": "The Secret Garden",
+    "title": "The Secret Garden",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1327873635s/2998.jpg",
+    "tags": [
+      {
+        "title": "Already Why Tv View",
+        "slug": "already-why-tv-view"
+      },
+      {
+        "title": "Development Form",
+        "slug": "development-form"
+      },
+      {
+        "title": "Next",
+        "slug": "next"
+      }
+    ]
+  },
+  {
+    "book_id": 94,
+    "isbn": "60531045",
+    "isbn13": "9780060531045",
+    "authors": [
+      {
+        "name": "Gabriel Garc\u00eda M\u00e1rquez"
+      },
+      {
+        "name": " Gregory Rabassa"
+      }
+    ],
+    "original_publication_year": 1967,
+    "original_title": "Cien a\u00f1os de soledad",
+    "title": "One Hundred Years of Solitude",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1327881361s/320.jpg",
+    "tags": [
+      {
+        "title": "Myself Tonight Piece",
+        "slug": "myself-tonight-piece"
+      },
+      {
+        "title": "Live Method",
+        "slug": "live-method"
+      },
+      {
+        "title": "Letter",
+        "slug": "letter"
+      }
+    ]
+  },
+  {
+    "book_id": 95,
+    "isbn": "375751513",
+    "isbn13": "9780375751513",
+    "authors": [
+      {
+        "name": "Oscar Wilde"
+      },
+      {
+        "name": " Jeffrey Eugenides"
+      }
+    ],
+    "original_publication_year": 1891,
+    "original_title": "The Picture of Dorian Gray",
+    "title": "The Picture of Dorian Gray",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1424596966s/5297.jpg",
+    "tags": [
+      {
+        "title": "Region Prove Add Me",
+        "slug": "region-prove-add-me"
+      },
+      {
+        "title": "Probably",
+        "slug": "probably"
+      }
+    ]
+  },
+  {
+    "book_id": 96,
+    "isbn": "345803507",
+    "isbn13": "9780345803507",
+    "authors": [
+      {
+        "name": "E.L. James"
+      }
+    ],
+    "original_publication_year": 2012,
+    "original_title": "Fifty Shades Freed",
+    "title": "Fifty Shades Freed (Fifty Shades, #3)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1336418837s/13536860.jpg",
+    "tags": [
+      {
+        "title": "Claim Shake Station",
+        "slug": "claim-shake-station"
+      },
+      {
+        "title": "Leader",
+        "slug": "leader"
+      }
+    ]
+  },
+  {
+    "book_id": 97,
+    "isbn": "393970124",
+    "isbn13": "9780393970124",
+    "authors": [
+      {
+        "name": "Bram Stoker"
+      },
+      {
+        "name": " Nina Auerbach"
+      },
+      {
+        "name": " David J. Skal"
+      }
+    ],
+    "original_publication_year": 1897,
+    "original_title": "Dracula",
+    "title": "Dracula",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1387151694s/17245.jpg",
+    "tags": [
+      {
+        "title": "Finally Reduce",
+        "slug": "finally-reduce"
+      },
+      {
+        "title": "Arm Particular",
+        "slug": "arm-particular"
+      },
+      {
+        "title": "Easy Establish",
+        "slug": "easy-establish"
+      },
+      {
+        "title": "Bad",
+        "slug": "bad"
+      }
+    ]
+  },
+  {
+    "book_id": 98,
+    "isbn": "307269981",
+    "isbn13": "9780307269981",
+    "authors": [
+      {
+        "name": "Stieg Larsson"
+      },
+      {
+        "name": " Reg Keeland"
+      }
+    ],
+    "original_publication_year": 2006,
+    "original_title": "Flickan som lekte med elden",
+    "title": "The Girl Who Played with Fire (Millennium, #2)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1351778881s/5060378.jpg",
+    "tags": [
+      {
+        "title": "Why",
+        "slug": "why"
+      },
+      {
+        "title": "Maintain Save Involve Out",
+        "slug": "maintain-save-involve-out"
+      },
+      {
+        "title": "My",
+        "slug": "my"
+      },
+      {
+        "title": "Oil",
+        "slug": "oil"
+      }
+    ]
+  },
+  {
+    "book_id": 99,
+    "isbn": "1612130585",
+    "isbn13": "9781612130585",
+    "authors": [
+      {
+        "name": "E.L. James"
+      }
+    ],
+    "original_publication_year": 2011,
+    "original_title": "Fifty Shades Darker",
+    "title": "Fifty Shades Darker (Fifty Shades, #2)",
+    "language_code": "eng",
+    "small_image_url": "https://images.gr-assets.com/books/1358266080s/11857408.jpg",
+    "tags": [
+      {
+        "title": "Financial Treat",
+        "slug": "financial-treat"
+      },
+      {
+        "title": "Recently",
+        "slug": "recently"
+      },
+      {
+        "title": "Sing Lead Certainly",
+        "slug": "sing-lead-certainly"
+      }
+    ]
+  }
+]
