@@ -1,0 +1,53 @@
+version: '3.4'
+services:
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: production
+    container_name: backend_live_${PROJECT_NAME}
+    depends_on:
+      - es
+    env_file: .env
+    environment:
+      - ES_HOST=${ES_HOST:-es:9200}
+      - PIP_DISABLE_PIP_VERSION_CHECK=1
+    ports:
+      - 5000:5000
+    networks:
+      - net_es_search
+
+  kibana:
+    image: kibana:7.14.2
+    container_name: kibana_${PROJECT_NAME}
+    depends_on:
+      - es
+    ports:
+      - 5601:5601
+    environment:
+      ELASTICSEARCH_HOSTS: http://es:9200
+    networks:
+      - net_es_search
+
+  es:
+    image: elasticsearch:7.14.2
+    container_name: elasticsearch_${PROJECT_NAME}
+    environment:
+      - cluster.name=${PROJECT_NAME}app
+      - discovery.type=single-node
+      - cluster.routing.allocation.disk.threshold_enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      - 9200:9200
+      - 9300:9300
+    volumes:
+      - esdata_es_search:/usr/share/elasticsearch/data
+    networks:
+      - net_es_search
+
+volumes:
+  esdata_es_search:
+
+networks:
+  net_es_search:
