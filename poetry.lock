@@ -222,7 +222,7 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
 
 [[package]]
 name = "elasticsearch"
-version = "7.9.1"
+version = "7.10.0"
 description = "Python client for Elasticsearch"
 category = "main"
 optional = false
@@ -231,11 +231,10 @@ python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, <4"
 [package.dependencies]
 aiohttp = {version = ">=3,<4", optional = true, markers = "extra == \"async\""}
 certifi = "*"
-urllib3 = ">=1.21.1"
-yarl = {version = "*", optional = true, markers = "extra == \"async\""}
+urllib3 = ">=1.21.1,<2"
 
 [package.extras]
-async = ["aiohttp (>=3,<4)", "yarl"]
+async = ["aiohttp (>=3,<4)"]
 develop = ["requests (>=2.0.0,<3.0.0)", "coverage", "mock", "pyyaml", "pytest", "pytest-cov", "sphinx (<1.7)", "sphinx-rtd-theme", "black", "jinja2"]
 docs = ["sphinx (<1.7)", "sphinx-rtd-theme"]
 requests = ["requests (>=2.4.0,<3.0.0)"]
@@ -1323,8 +1322,8 @@ docutils = [
     {file = "docutils-0.16.tar.gz", hash = "sha256:c2de3a60e9e7d07be26b7f2b00ca0309c207e06c100f9cc2a94931fc75a478fc"},
 ]
 elasticsearch = [
-    {file = "elasticsearch-7.9.1-py2.py3-none-any.whl", hash = "sha256:8c7e2374f53ee1b891ff2804116e0c7fb517585d6d5788ba668686bbc9d82e2d"},
-    {file = "elasticsearch-7.9.1.tar.gz", hash = "sha256:5e08776fbb30c6e92408c7fa8c37d939210d291475ae2f364f0497975918b6fe"},
+    {file = "elasticsearch-7.10.0-py2.py3-none-any.whl", hash = "sha256:9a21bfa7dc6a0b0dc142088bd653d8ce5ab284b4f7a3ded716185adf5276a7fe"},
+    {file = "elasticsearch-7.10.0.tar.gz", hash = "sha256:9053ca99bc9db84f5d80e124a79a32dfa0f7079b2112b546a03241c0dbeda36d"},
 ]
 elasticsearch-dsl = [
     {file = "elasticsearch-dsl-7.3.0.tar.gz", hash = "sha256:0ed75f6ff037e36b2397a8e92cae0ddde79b83adc70a154b8946064cb62f7301"},
