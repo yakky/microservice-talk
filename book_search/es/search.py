@@ -6,6 +6,7 @@ from .documents import Book
 
 
 async def search_es(settings: Settings, q: str, year: int, tags: List[str], size: int) -> Tuple[List[Book], int]:
+    """Build the ES query and run it, returning results and total count."""
     client = init_es(settings, use_async=True)
     query_dict = {"query": {"bool": {"must": []}}}
     if q:
@@ -26,7 +27,7 @@ async def search_es(settings: Settings, q: str, year: int, tags: List[str], size
         }
         query_dict["query"]["bool"]["must"].append(tags_query)
 
-    response = await client.search(index="book", body=query_dict, size=size)
+    response = await client.search(index="book", query=query_dict["query"], size=size)
     results = [row["_source"] for row in response["hits"]["hits"]]
     total = response["hits"]["total"]["value"]
     await client.close()
