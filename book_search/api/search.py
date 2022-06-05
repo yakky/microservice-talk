@@ -1,10 +1,12 @@
 from typing import List
 
+from elasticsearch import AsyncElasticsearch
 from fastapi import APIRouter, Depends, Query
 from starlette.requests import Request
 
 from .. import models
 from ..app_settings import Settings, get_settings
+from ..es import get_es
 from ..es.search import search_es
 
 search_router = APIRouter()
@@ -14,6 +16,7 @@ search_router = APIRouter()
 async def search(
     request: Request,
     settings: Settings = Depends(get_settings),  # noqa: B008
+    es_client: AsyncElasticsearch = Depends(get_es),  # noqa: B008
     q: str = Query(None, description="Free text query string."),  # noqa: B008
     tags: List[str] = Query([], description="List of tags slugs."),  # noqa: B008
     year: int = Query(None, description="Filter by publication year."),  # noqa: B008
@@ -22,5 +25,5 @@ async def search(
     """
     Search ES data according to the provided filters.
     """
-    results, total = await search_es(settings, q, year, tags, size)
+    results, total = await search_es(settings, es_client, q, year, tags, size)
     return {"results": results, "count": total}
