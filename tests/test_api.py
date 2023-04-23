@@ -8,18 +8,18 @@ from book_search.main import app
 
 
 def test_search_basic_sync(load_books):
-    client = TestClient(app)
-    url = app.url_path_for("search")
-    params = urlencode({"q": "Susan Collins"})
-    response = client.get(f"{url}?{params}")
-    assert response.status_code == 200
-    data = response.json()
-    assert data["results"]
-    assert data["count"] == 3
-    assert [row["book_id"] for row in data["results"]] == [1, 17, 20]
-    for row in data["results"]:
-        assert row["title"]
-        assert row["isbn13"]
+    with TestClient(app) as client:
+        url = app.url_path_for("search")
+        params = urlencode({"q": "Susan Collins"})
+        response = client.get(f"{url}?{params}")
+        assert response.status_code == 200
+        data = response.json()
+        assert data["results"]
+        assert data["count"] == 3
+        assert [row["book_id"] for row in data["results"]] == [1, 17, 20]
+        for row in data["results"]:
+            assert row["title"]
+            assert row["isbn13"]
 
 
 @pytest.mark.asyncio
