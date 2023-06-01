@@ -6,13 +6,14 @@ jobs:
   test:
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
+    continue-on-error: ${{ matrix.continue-on-error }}
     strategy:
       matrix:
-        python-version: [3.10.x]
+        python-version: ["3.10.x", "3.11.x"]
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v4
       with:
         python-version: ${{ matrix.python-version }}
     - name: Cache pip
@@ -31,7 +32,7 @@ jobs:
           ${{ runner.os }}-tox-${{ format('{{py{0}}}', matrix.python-version) }}-
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip tox>=3.5
+        python -m pip install --upgrade pip setuptools tox>4
     - name: Test with tox
       env:
         TOX_ENV: ${{ format('py') }}
@@ -42,11 +43,11 @@ jobs:
         tox -e$TOX_ENV -- --cov=book_search
         .tox/$TOX_ENV/bin/coverage xml
         .tox/$TOX_ENV/bin/coveralls
-    - uses: codecov/codecov-action@v1
+    - uses: codecov/codecov-action@v3
       with:
         token: ${{ secrets.CODECOV_TOKEN }}
         flags: unittests
-        file: ./coverage.xml
+        files: ./coverage.xml
         fail_ci_if_error: false
     services:
       elasticsearch:
